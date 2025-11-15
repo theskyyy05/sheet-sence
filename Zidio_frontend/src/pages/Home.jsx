@@ -19,7 +19,7 @@ function Home() {
       {/* Navbar */}
       <nav className="fixed w-full z-20 bg-gray-800/30 backdrop-blur-lg border-b border-gray-700 shadow-lg">
         <div className="max-w-7xl mx-auto px-4 flex justify-between h-16 items-center">
-          <span className="text-2xl font-bold text-indigo-400">SheetSense</span>
+          <span className="text-2xl font-bold text-indigo-400">SenseSheet</span>
           <div className="space-x-6 text-gray-300">
             <a href="#about" className="hover:text-white">About</a>
             <a href="#features" className="hover:text-white">Features</a>
