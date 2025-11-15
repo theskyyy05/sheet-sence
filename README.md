@@ -3,6 +3,10 @@ SheetSense
 # SheetSense: Data Visualization from Spreadsheets
 
 
+
+
+
+
 SheetSense is a full-stack web application that allows users to upload spreadsheet files (like `.xlsx`), process the data, and visualize it through interactive charts. It features a secure authentication system, separate dashboards for users and administrators, and a modern, responsive user interface.
 
 ## ✨ Features
